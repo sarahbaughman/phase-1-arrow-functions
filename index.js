@@ -1,4 +1,4 @@
-function divide(a,b) {
+ const divide = function(a,b) {
     return a/b
 }
 
